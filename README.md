@@ -12,5 +12,5 @@ Source of articles
 Why ?
 -----
 
-Ok reading is one thing. After reading writing a short takeaway and keeping track of all your articles are one place is second thing.
+Ok reading is one thing. After reading writing a short takeaway and keeping track of all your articles are at place is second thing.
 This is a place where i focus on second thing: Takeways, all archived and saved. (:
