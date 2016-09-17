@@ -8,6 +8,12 @@ Source of articles
 - Tweets i Re-tweet
 - Articles i bookmarked on medium
 
+How it work?
+-----
+
+- Tweets i tweet or retweet are created as issue in this repository. Thanks to IFTTT (twitter -> github issue)
+- Medium posts that i bookmakr are created as issue in this repository. Thanks to IFTTT (Medium -> github issue)
+- Issues assigned me to me are populated in my Trello to-read-list. Thanks to IFTTT(github issue -> Trell card add)
 
 Why ?
 -----
